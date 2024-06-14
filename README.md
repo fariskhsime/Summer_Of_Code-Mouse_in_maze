@@ -70,9 +70,8 @@ python3 mouse_in_a_maze.py
 Complétez la fonction `print_maze` pour qu'elle affiche correctement le labyrinthe, ça nous sera utile pour la suite ;)
 
 L'affichage doit être le suivant:
-```bash
+
 ![Output](./Images/step2_output.png)
-```
 
 ## Step 3
 
@@ -80,6 +79,4 @@ Maintenant qu'on peut visualiser notre labyrinthe, il nous reste à le résoudre
 
 Une solution possible peut être la suivante:
 
-```bash
 ![Output](./Images/step3_output.png)
-```
